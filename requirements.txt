@@ -1,0 +1,8 @@
+pandas
+numpy
+google-api-python-client
+nltk
+Sastrawi
+swifter
+scikit-learn
+python-dotenv

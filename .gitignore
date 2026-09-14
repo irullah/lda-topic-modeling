@@ -1,0 +1,5 @@
+# Abaikan file data hasil run Colab
+*.csv
+
+# Abaikan file konfigurasi lokal jika ada
+.env
